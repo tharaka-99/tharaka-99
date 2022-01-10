@@ -11,7 +11,7 @@ tharaka-99/tharaka-99 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Tharaka Dilshan</h1>
-<h3 >I am an enthusiastic young Undergraduate at SLIIT studying BSc (Hons) in Information Technology Specializing in Software Engineering Full Stack developer from Sri Lanka</h3>
+<h4>I am an enthusiastic young Undergraduate at SLIIT studying BSc (Hons) in Information Technology Specializing in Software Engineering. </h4>
 
 - 💬 Ask me about **React Js, String Boot, Java, and JS**
 
